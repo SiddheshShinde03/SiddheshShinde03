@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @SiddheshShinde03
-- 👀 I’m interested in ... Cloud Computing
-- 🌱 I’m currently learning ... AWS AZURE
-- 💞️ I’m looking to collaborate on ...Projects related to AWS and AZURE
-- 📫 How to reach me ...shindesiddhesh003@gmail.com  9527625789
+## 👨‍💻 About Me
+
+- 💼 Associate Application Deployment Engineer
+- ☁️ Microsoft Certified: Azure Fundamentals (AZ-900)
+- 🚀 Passionate about Azure, DevOps, Docker & Kubernetes
+- 🌱 Currently building production-style Azure DevOps CI/CD projects
+- 📚 Learning Azure Kubernetes Service (AKS), Terraform & GitHub Actions
+- 🎯 Goal: Become a DevOps Engineer
 - 
 
 <!---
