@@ -6,7 +6,6 @@
 - 🌱 Currently building production-style Azure DevOps CI/CD projects
 - 📚 Learning Azure Kubernetes Service (AKS), Terraform & GitHub Actions
 - 🎯 Goal: Become a DevOps Engineer
-- 
 
 <!---
 SiddheshShinde03/SiddheshShinde03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
